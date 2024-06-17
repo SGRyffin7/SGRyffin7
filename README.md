@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SGRyffin7
-- 👀 I’m interested in Android and Iot
-- 🌱 I’m currently learning Firebase
-- 💞️ I’m looking to collaborate on Android Apps
+Hi This is Sagar. A professional android developer. Feel free to use the resources provided in these repositories.
 
 <!---
 SGRyffin7/SGRyffin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
